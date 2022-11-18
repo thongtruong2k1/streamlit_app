@@ -1,7 +1,9 @@
 # streamlit_app
 
-**Miêu tả đề tài: Sử dụng KMeans để phân loại các dữ liệu theo K cụm mà người dùng muốn. Có thể tải lại file csv từ dữ liệu đã được phân cụm.Đề tài sử dụng streamlit để deploy sản phẩm.**
-
+**Miêu tả đề tài:** 
+* Sử dụng KMeans để phân loại các dữ liệu theo K cụm mà người dùng muốn. 
+* Có thể tải lại file csv từ dữ liệu đã được phân cụm. 
+* Đề tài sử dụng streamlit để deploy sản phẩm.**
 * File csv mẫu cho việc test: *Mall_Customers.csv*
 
 > Cài đặt các thư viện cần thiết:
